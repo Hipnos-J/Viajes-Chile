@@ -31,7 +31,7 @@ información asociada.
 
 ● Una sección footer con links a las redes sociales.
 
-[Que se hizo]
+[Que se agrego]
 
 Se configura segun los requerimientos, se hacen modificaciones para detallar uso de telefono u otro dispositivo.
 
