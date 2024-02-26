@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+
+header {
+    background-color: black;
+}
+
+
+.navbar-nav {
+    background: none;
+    margin-left: 65%;
+}
+
+.nav-item {
+    margin: 0 25px;
+}
+
+.carousel-item {
+    width: 0%;
+}
+
+.svg {
+    margin: 0 0 0 40%;
+    width: 30px;
+    height: 30px;
+    background: none;  
+}
+#quienesSomos {
+    padding-top: 25px;
+}
+
+.sectionuno {
+    background-color: black;
+    color: white;
+}
+
+.sectiondos {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 50px;   
+}
+
+.icono1 {
+text-align: center;
+color: white;
+background-color: #328998;
+margin-bottom: 10px;
+}
+
+.icono2 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.card-group {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.card {
+    margin: 0 20px 0 ;
+}
+
+.card-body {
+    background-color: #328998;
+    border: 1px black;
+}
+
+.card-img-top {
+    height: 250px;
+    padding: 1px 1px 0px 1px;
+}
+
+#contacto {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+form {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer {
+    background-color: #328998;
+    font-size: 30px;
+}
+
+.pfooter {
+    text-transform: uppercase;
+    
+}
+
+@media only screen and (max-width: 768px) {
+    
+    .sectionuno {
+        display: none;
+      }
+}
