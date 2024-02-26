@@ -37,8 +37,6 @@ Se configura segun los requerimientos, se hacen modificaciones para detallar uso
 
 Se agrega Menu, Carrusel, Tarjetas de informacion, Contacto y Pie de pagina con los links.
 
-
-
 ## Autor
 
 - [@Hipnos-J](https://www.github.com/Hipnos-J)
